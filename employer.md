@@ -16,4 +16,5 @@
 – Have a 'dudebro' culture
 – Have 0 female developers
 – Pay one developer more than another outside of a transparent system, for example pay grades with steps up based on time & experience with the company
+  - Many Women tend to negotiate for lower salaries than their Male counterparts. To me, having open and transparent salaries means that you will be paying your workforce equally.
 
