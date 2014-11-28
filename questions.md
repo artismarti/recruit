@@ -22,3 +22,4 @@ Work in progress.
 
 ## Do you help staff move into different roles, i.e. from development into UX. How do you go about this?
 
+## Do you have soft work a developer can do if they are not in a development frame of mind?
