@@ -17,3 +17,8 @@ Work in progress.
 ## Fast-working, fast-speed, constant changing environments sound great, but what work place adjustments do you make for someone with dyslexia, or an older member of staff?
 
 ## Describe the ergonomics of your workstations, if you do pair programming how do you ensure the environment is suitable for both developers?
+
+## What structures do you have in place for career development?
+
+## Do you help staff move into different roles, i.e. from development into UX. How do you go about this?
+
