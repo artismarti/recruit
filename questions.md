@@ -12,6 +12,8 @@ Work in progress.
 
 ## Please describe what, as a company, you think of transparency. Go into detail about how you provide a transparent environment.
 
-## Describe your approach to team building in the office
+## Describe your approach to team building
 
 ## Fast-working, fast-speed, constant changing environments sound great, but what work place adjustments do you make for someone with dyslexia, or an older member of staff?
+
+## Describe the ergonomity of your workstations, if you do pair programming how do you ensure the environment is suitable for both developers?
