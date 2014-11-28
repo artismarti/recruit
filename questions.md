@@ -23,3 +23,7 @@ Work in progress.
 ## Do you help staff move into different roles, i.e. from development into UX. How do you go about this?
 
 ## Do you have soft work a developer can do if they are not in a development frame of mind?
+
+## What do you think about mental health? How do you raise mental health awareness as a company?
+
+## Beyond time off for therapy, what work place adjustments do you make for staff with mental health concerns, such as dyslexia?
