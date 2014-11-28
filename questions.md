@@ -27,3 +27,7 @@ Work in progress.
 ## What do you think about mental health? How do you raise mental health awareness as a company?
 
 ## Beyond time off for therapy, what work place adjustments do you make for staff with mental health concerns, such as dyslexia?
+
+## Do you have a learning and development budget? If so, what are your policies around this?
+
+## What kind of bennefits do you offer? Please go into detail about these and include pension schemes, private health care and life insurance.
