@@ -16,4 +16,4 @@ Work in progress.
 
 ## Fast-working, fast-speed, constant changing environments sound great, but what work place adjustments do you make for someone with dyslexia, or an older member of staff?
 
-## Describe the ergonomity of your workstations, if you do pair programming how do you ensure the environment is suitable for both developers?
+## Describe the ergonomics of your workstations, if you do pair programming how do you ensure the environment is suitable for both developers?
