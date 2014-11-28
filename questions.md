@@ -13,3 +13,5 @@ Work in progress.
 ## Please describe what, as a company, you think of transparency. Go into detail about how you provide a transparent environment.
 
 ## Describe your approach to team building in the office
+
+## Fast-working, fast-speed, constant changing environments sound great, but what work place adjustments do you make for someone with dyslexia, or an older member of staff?
