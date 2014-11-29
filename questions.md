@@ -31,3 +31,5 @@ Work in progress.
 ## Do you have a learning and development budget? If so, what are your policies around this?
 
 ## What kind of bennefits do you offer? Please go into detail about these and include pension schemes, private health care and life insurance.
+
+## What challenges do you think a non-male developer faces in addition to being a competent, up-to date developer
